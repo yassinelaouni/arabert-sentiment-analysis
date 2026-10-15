@@ -1,0 +1,14 @@
+.venv/
+.validation/
+outputs/
+data/
+__pycache__/
+.ipynb_checkpoints/
+kaggle.json
+.env
+.env.*
+*.safetensors
+pytorch_model*.bin
+*.pt
+*.pth
+.DS_Store

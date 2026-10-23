@@ -12,3 +12,5 @@ pytorch_model*.bin
 *.pt
 *.pth
 .DS_Store
+tmp/
+output/

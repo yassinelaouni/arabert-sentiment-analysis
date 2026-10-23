@@ -10,6 +10,13 @@ Notebook pédagogique en français : fine-tuning de `aubmindlab/bert-base-araber
 
 Les données et poids entraînés ne sont pas versionnés. Le dossier local `data/` doit contenir les quatre TSV du corpus Kaggle avant l’exécution.
 
+## Guides PDF
+
+Deux guides illustrés de huit pages expliquent les données, AraBERT, le fine-tuning, l’évaluation et le lancement du projet. Ils distinguent les vérifications réalisées de l’entraînement complet restant à exécuter.
+
+- [Guide du projet en français](docs/guide_projet_arabert_fr.pdf)
+- [Project guide in English](docs/arabert_project_guide.pdf)
+
 ## Lancement local
 
 Cloner le dépôt puis, sous Windows avec Python 3.12 installé :
